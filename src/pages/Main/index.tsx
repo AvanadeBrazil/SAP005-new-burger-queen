@@ -1,7 +1,7 @@
 import React from 'react';
 import { NextPage } from 'next';
-import MainApp from '../components/MainApp/MainApp';
-import reportWebVitals from '../reportWebVitals';
+import MainApp from '../../components/MainApp/MainApp';
+import reportWebVitals from '../../reportWebVitals';
 
 const IndexPage: NextPage = () => {
   return (
